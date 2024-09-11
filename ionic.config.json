@@ -1,0 +1,8 @@
+{
+  "name": "Novo Projeto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cd860847"
+}
